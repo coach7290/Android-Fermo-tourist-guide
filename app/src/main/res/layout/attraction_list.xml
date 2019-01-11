@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Recycler view to show a list of available attractions
+
+    Recycler: AttrListItemRecyclerAdapter
+    Fragment: AttractionListFragment
+    Child Layout: attraction_summary.xml
+ -->
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_recycler_view"
+    style="@style/MatchParent"/>

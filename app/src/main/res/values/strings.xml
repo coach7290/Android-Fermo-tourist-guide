@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Fermo city guide</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="city_name">Fermo</string>
+    <string name="scenery">Fermo landscape</string>
+    <string name="visit_tab_title">What to see</string>
+    <string name="eat_tab_title">Where to eat</string>
+    <string name="drink_tab_title">Where to drink</string>
+    <string name="sleep_tab_title">Where to sleep</string>
+    <string name="city_name_and_country">Fermo</string>
+
+
+    <string name="attraction_image">Attraction Image</string>
+    <string name="attr_directions">Directions</string>
+    <string name="attr_call">Call</string>
+    <string name="attr_website">Website</string>
+
+
+
+
+
+
+    <!-- Astoria -->
+    <string name="Hotel_1">Hotel Astoria</string>
+    <string name="ph_phone_num">0734225130</string>
+    <string name="ph_desc">We’re located within the city’s ancient defensive walls; an amazing background. We’re a few meters away from the majestic Arc leading to the beautiful Piazza del Popolo, the historical and administrative center of the city. We’re a short distance away from important landmarks such as the Teatro dell’Aquila, the hospital, the local courthouse, the town hall, several internationally renowned schools such as the ITIS Montani, and more. We’re a few kilometers away from the sea, a cornerstone in the beautiful scenery our hotel can offer. We’re here, with our 48 comfortable and modern rooms, the reception, the restaurant, the meeting rooms, and the bar. Our staff is ready to welcome both business and leisure customers who are after solid services and comfort in a breathtaking architectural setting..</string>
+    <string name="a_url">http://hotelastoriafermo.it/en/</string>
+
+    <!-- Side nav items -->
+    <string name="Fermo_History">Fermo History</string>
+    <string name="Fermo_History_url">https://en.wikipedia.org/wiki/Fermo</string>
+
+    <string name="HowToGetThereBus_Info">How To Get There By Bus</string>
+    <string name="HowToGetThereBus_url">https://www.busradar.com/coach/fermo/rome/</string>
+
+    <string name="HowToGetThereByTrain_timetables">How To Get There By Train</string>
+    <string name="HowToGetThereByTrain_url">https://www.trainline.eu/stations/porto-san-giorgio-fermo</string>
+
+    <string name="Sunbathe_PSG">Lets Get Tanned! Fermo Is Not Only Hills!</string>
+    <string name="PSG_url">https://en.wikipedia.org/wiki/Porto_San_Giorgio</string>
+
+
+</resources>

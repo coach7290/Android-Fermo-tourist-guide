@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Side Nav Header -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SideNavHeaderLayout">
+
+    <!-- Side nave title image -->
+    <ImageView
+        android:id="@+id/side_nav_header_img"
+        style="@style/SideNavHeaderImage"
+        android:src="@drawable/fermo" />
+
+    <!-- Side Nav Title Text -->
+
+</RelativeLayout>

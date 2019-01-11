@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/History"
+            android:title="@string/Fermo_History" />
+        <item
+            android:id="@+id/Bus"
+            android:title="How to get there by bus info" />
+        <item
+            android:id="@+id/Train"
+            android:title="How to get there by train timetables" />
+        <item
+            android:id="@+id/Sunbathe"
+            android:title="Sunbathe" />
+    </group>
+
+</menu>
